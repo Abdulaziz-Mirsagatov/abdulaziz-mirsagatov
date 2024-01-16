@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello, World! 👋 I'm Abdulaziz Mirsagatov
 
-<!--
-**Abdulaziz-Mirsagatov/abdulaziz-mirsagatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate student at the University of Cincinnati, majoring in Computer Science & Economics. My passion lies in Programming and Web Development. I love solving problems and crafting highly-responsive, fully-functional websites.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Undergraduate student at the University of Cincinnati.
+- 💻 Majoring in Computer Science & Economics.
+- 🚀 Self-taught developer with a knack for quickly grasping new concepts and tools.
+
+## Tech Stack
+
+- 🔧 Proficient in using React, Redux, & SASS for creating beautiful and dynamic UI.
+- 🛠️ Utilize Express with MongoDB to develop robust backend applications.
+
+Feel free to explore my repositories to discover my projects and contributions!
+
+## Connect with Me
+
+- 📧 Email: mirsagah@mail.uc.edu
+- 💼 LinkedIn: [[LinkedIn Profile]](https://www.linkedin.com/in/abdulaziz-mirsagatov-085616230/)
+
+Let's connect and collaborate on exciting projects! Happy coding! 🚀
